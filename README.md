@@ -1,1 +1,3 @@
-# demonvere-sourcecode
+# Demonverse Açık kaynak
+
+Burası evrenin açık kaynağıdır.
